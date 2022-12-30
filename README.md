@@ -29,13 +29,7 @@ Monodepth:
     python run_monodepth.py
     ```
 
-    Or run a semantic segmentation model:
-
-    ```shell
-    python run_segmentation.py
-    ```
-
-3) The results are written to the folder `output_monodepth` and `output_semseg`, respectively.
+3) The results are written to the folder `output_monodepth`.
 
 Use the flag `-t` to switch between different models. Possible options are `dpt_hybrid` (default) and `dpt_large`.
 
