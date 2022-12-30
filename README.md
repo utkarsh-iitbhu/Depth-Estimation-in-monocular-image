@@ -2,12 +2,6 @@
 
 This repository contains code and models for our [paper](https://arxiv.org/abs/2103.13413):
 
-> Vision Transformers for Dense Prediction  
-> René Ranftl, Alexey Bochkovskiy, Vladlen Koltun
-
-
-### Changelog 
-* [March 2021] Initial release of inference code and models
 
 ### Setup 
 
