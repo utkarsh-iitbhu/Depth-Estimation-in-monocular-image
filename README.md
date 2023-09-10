@@ -1,4 +1,92 @@
 # Summer Internship Report
+## Deep Learning Engineer Internship at TMLC
+### May 2023 - July 2023
+
+**Table of Contents**
+1. **Introduction**
+   - Overview
+   - Objectives
+
+2. **Project Highlights**
+   - Detecting YOLO Models
+   - Implementing Feature Pyramid Network (FPN)
+   - Bird Detection and Metrics Calculation
+   - Dashboard and Report Creation
+
+3. **Key Learnings and Exposure**
+   - Object Detection and Segmentation
+   - YOLO-v7/v8 Models
+   - Tensorflow and AWS
+   - Roboflow and Streamlit
+   - Letter of Recommendation
+
+4. **Conclusion**
+
+---
+
+### 1. Introduction
+
+#### Overview
+
+My summer internship at TMLC from May 2023 to July 2023 provided me with a unique opportunity to work as a Deep Learning Engineer. During this period, I had the privilege of contributing to projects involving cutting-edge technologies in computer vision and deep learning.
+
+#### Objectives
+
+The primary objectives of my internship were as follows:
+
+- Work on the detection of YOLO models, including yolov5, yolov7, and yolov8.
+- Implement the Feature Pyramid Network (FPN) to enhance object detection accuracy.
+- Develop solutions for bird detection in CCTV footage, calculate in-time and out-time, and create interactive dashboards and reports using Streamlit.
+- Deploy deep learning models on AWS EC2 instances to perform real-time object detection and metric calculations.
+
+### 2. Project Highlights
+
+#### Detecting YOLO Models
+
+My internship began with the task of detecting various YOLO models, including yolov5, yolov7, and yolov8. This involved understanding the intricacies of these models and devising methods to identify and distinguish them.
+
+#### Implementing Feature Pyramid Network (FPN)
+
+To improve object detection accuracy, I implemented the Feature Pyramid Network (FPN) architecture. FPN enhances the model's ability to detect objects at various scales within an image, leading to more accurate and robust results.
+
+#### Bird Detection and Metrics Calculation
+
+A significant portion of my internship was dedicated to bird detection in CCTV footage. I developed algorithms to identify and track birds, calculate their in-time and out-time, and record these metrics for further analysis.
+
+#### Dashboard and Report Creation
+
+I created interactive dashboards and reports using Streamlit to visualize and present the bird detection metrics. These dashboards provided real-time insights into bird activity and were valuable tools for monitoring and decision-making.
+
+### 3. Key Learnings and Exposure
+
+#### Object Detection and Segmentation
+
+Working on YOLO models and FPN exposed me to the intricacies of object detection and segmentation. I gained insights into the challenges and techniques involved in identifying objects within images and videos.
+
+#### YOLO-v7/v8 Models
+
+My internship provided me with hands-on experience in dealing with the latest YOLO models, including yolov7 and yolov8. This exposure expanded my knowledge of state-of-the-art deep learning architectures.
+
+#### Tensorflow and AWS
+
+I worked extensively with Tensorflow for model development and deployed models on AWS EC2 instances. This experience enhanced my proficiency in both deep learning frameworks and cloud computing.
+
+#### Roboflow and Streamlit
+
+I leveraged tools like Roboflow for data preprocessing and Streamlit for creating interactive dashboards. These skills improved my ability to develop end-to-end solutions with user-friendly interfaces.
+
+#### Letter of Recommendation
+
+I am grateful for the opportunity to receive a Letter of Recommendation (LOR) from my mentors at TMLC. This acknowledgment reflects the value of my contributions and the skills I acquired during this internship.
+
+### 4. Conclusion
+
+My internship as a Deep Learning Engineer at TMLC was an enriching experience that allowed me to work on challenging projects in the field of computer vision and deep learning. The exposure to advanced technologies, coupled with hands-on experience in model development and deployment, has been invaluable to my professional growth.
+
+I am thankful for the guidance and mentorship provided by the team at TMLC, which played a crucial role in my development. This internship has further ignited my passion for deep learning and computer vision, and I look forward to applying these skills to future endeavors, making a meaningful impact in the world of artificial intelligence and technology.
+
+
+# Summer Internship Report
 ## Data Scientist Internship at Publicis Sapient
 ### May 2023 - July 2023
 
